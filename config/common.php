@@ -1,0 +1,5 @@
+<?php
+
+return [
+    'uploadImageDirectory' => 'storage',
+];
