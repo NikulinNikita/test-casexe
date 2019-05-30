@@ -112,13 +112,9 @@
       "@+ad",
       "@+da+mr+ds"
     ],
-    "+sl": [
-      "php artisan storageAppLogo:link"
-    ],
     "+deploy": [
       "@+u",
       "@+da+mr+ds",
-      "@+sl",
       "@+yi",
       "@+yu",
       "@+yp"
